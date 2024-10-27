@@ -1,6 +1,6 @@
 # Simple YouTube Video Downloader
 
-A Python app for downloading YouTube videos, with options for video trimming. Built with Python using Tkinter for the interface, yt-dlp for downloading, and moviepy for video processing.
+A Python app with basic UI for downloading YouTube videos, with options for video trimming. Built with Python using Tkinter for the interface, yt-dlp for downloading, and moviepy for video processing.
 
 ## Prerequisites
 
